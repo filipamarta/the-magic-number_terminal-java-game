@@ -1,10 +1,7 @@
 # TheMagicNumber_TerminalGame
 
 The player needs to guess the number that the computer previous chooses && the game gives some clues to help the player. 
-
 A simple JAVA 7 game to play in the terminal with many players (clients) connected to the same network, controlled by a server. 
-
-
 _This is a group project (Sandra Pereira, Manuel Sequeira and Filipa Marta) developed during one weekend at <Academia de Código_>._
 
 
